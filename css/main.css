@@ -1795,7 +1795,7 @@ pre .javascript .function {
   border-bottom: none;
 }
 .post-body p a:hover {
-  color: #f00;
+  color: #800080;
 }
 .sidebar {
   position: fixed;
@@ -1966,7 +1966,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #1116ff;
+  background: #f606c1;
 }
 .links-of-blogroll {
   font-size: 13px;
